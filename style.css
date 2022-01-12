@@ -51,7 +51,7 @@ hr{
 /*-------
  top blog style
  -------- */
- 
+
  .blogs{
      display:grid;
      grid-template-columns: repeat(2,1fr);
@@ -124,7 +124,7 @@ hr{
     .container{
         width: 100%;
     }
-    .players,.blogs{
+    .players,.blogs,.courses{
         grid-template-columns: repeat(1,1fr);
     }
     .player,.blog{
